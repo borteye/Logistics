@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/logistics/static/css/main.2d66d81f.css",
+    "main.js": "/logistics/static/js/main.e2582ad0.js",
+    "static/js/453.aed7e7eb.chunk.js": "/logistics/static/js/453.aed7e7eb.chunk.js",
+    "static/media/carousel-1.jpg": "/logistics/static/media/carousel-1.7078c8830b26129b319c.jpg",
+    "static/media/map.png": "/logistics/static/media/map.a57473ecbe78f6e51d28.png",
+    "static/media/about.jpg": "/logistics/static/media/about.e41f10ca1459bb66aed1.jpg",
+    "static/media/ship.svg": "/logistics/static/media/ship.0d3cd5aac7f7eba077b5b97f4827666e.svg",
+    "static/media/service-6.jpg": "/logistics/static/media/service-6.4a0c9b598bb2448a9340.jpg",
+    "static/media/service-1.jpg": "/logistics/static/media/service-1.4deee0a3993bac8fbd4f.jpg",
+    "index.html": "/logistics/index.html",
+    "main.2d66d81f.css.map": "/logistics/static/css/main.2d66d81f.css.map",
+    "main.e2582ad0.js.map": "/logistics/static/js/main.e2582ad0.js.map",
+    "453.aed7e7eb.chunk.js.map": "/logistics/static/js/453.aed7e7eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d66d81f.css",
+    "static/js/main.e2582ad0.js"
+  ]
+}
